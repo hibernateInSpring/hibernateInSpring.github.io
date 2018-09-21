@@ -1,6 +1,6 @@
 # hibernateInSpring.github.io
 ##My own page
-this is a static html project for [myself](http://hibernateInSpring.github.io)
+this is a static html project for [myself](https://hibernateInSpring.github.io)
 
 
 * 无序列表
